@@ -1,6 +1,9 @@
 <!--index.wxml-->
 <view class="container">
   <view>
-    <button bindtap="getRecord">getRecord</button>
+    <button bindtap="getRecord">getRecord by SDK</button>
+  </view>
+  <view>
+    <button bindtap="getRecord2">getRecord no SDK</button>
   </view>
 </view>
